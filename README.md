@@ -1,7 +1,6 @@
 ### Olá ! eu sou o Mateus Alves👋
 
-- 🔭 Hoje trabalho como FullStack
-- 🌱 Estudaando Python, PHP e JavaScript
+- 🌱 Estudando Java, PHP e JavaScript
 - 📫 Contate-me no e-mail: axlmxx@gmail.com
 - 😄 Pronouns: ele/dele
 
