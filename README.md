@@ -1,6 +1,6 @@
 ### Olá ! eu sou o Mateus Alves👋
 
-- 🌱 Estudando Java, PHP e JavaScript
+- 🌱 Estudando Java, Python e JavaScript
 - 📫 Contate-me no e-mail: axlmxx@gmail.com
 - 😄 Pronouns: ele/dele
 
