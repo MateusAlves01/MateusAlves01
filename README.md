@@ -2,6 +2,7 @@
 
 - 🌱 Estudando Java, Python, JavaScript e C#
 - 📫 Contate-me no e-mail: axlmxx@gmail.com
+- 📫 Contate-me no e-mail: axl_m10@hotmail.com
 - 😄 Pronouns: ele/dele
 - Curiosidade !! atualmente estou desenvolvendo um site para o ensino de química onde, demonstro alguns experimentos com materiais alternativos :)
 
